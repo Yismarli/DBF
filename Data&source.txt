@@ -1,0 +1,45 @@
+\begin{table*}[hb]
+		\caption{Datasets.}
+		\label{Taba}
+		\resizebox{\linewidth}{!}{%
+			\begin{tabular}{@{}cccccc@{}}
+				\toprule
+				Datasets	& Instances	 & Features & Class count & imbalance rates & Sources	   \\
+				\midrule
+				
+				SmartCity UAV (SUAV)	& 2000    & 13 & 3  & 0.152:0.724:0.124 (0:1:2)
+				https://www.kaggle.com/datasets/ziya07/smartcity-uav-emission-monitoring-dataset 	\\ 	
+				
+				Project management Risk Raw (PRR)		& 4000   & 50   & 4  & 0.259:0.202:0.349:0.191 (0:1:2:3) 
+				https://www.kaggle.com/datasets/ka66ledata/project-management-risk-raw 	\\ 	
+				
+				
+				Student Dropout amd Success Prediction (SDSP)	& 4424   & 36 & 3  & 0.321:0.499:0.179 (0:1:2)
+				https://www.kaggle.com/datasets/adilshamim8/predict-students-dropout-and-academic-success 	\\ 	
+				
+				
+				Face Emotion Insight Recognition (FEIR)					& 4998 & 12 & 6  & 0.167:0.167:0.167:0.167:0.167:0.167 (0:1:2:3:4:5)
+				https://www.kaggle.com/datasets/zoya77/face-emotion-insight-recognition-dataset	\\ 	
+				
+				
+				Power Grid Sense Dataset (PGD)	    & 10000   & 8 & 5  & 0.901:0.026:0.023:0.024:0.026 (0:1:2:3:4)
+				https://www.kaggle.com/datasets/ziya07/powergridsense-dataset 	\\ 	
+				
+				
+				Weather prediction (WP)		& 10255  & 7 & 5  & 0.618:0.134:0.231:0.004:0.012 (0:1:2:3:4) 
+				https://www.kaggle.com/datasets/partar/weather-prediction	\\ 	
+				
+				
+				E-commerce Sales Transactions Dataset (CSTD)	& 34500  & 16 & 7   & 0.159:0.118:0.179:0.119:0.181:0.123:0.121 (0:1:2:3:4:5:6)
+				https://www.kaggle.com/datasets/miadul/e-commerce-sales-transactions-dataset 	\\ 	
+				
+				
+				Steel Industry Dataset (SID)				& 35041  & 9 & 3   & 0.516:0.277:0.208 (0:1:2)
+				https://www.kaggle.com/datasets/nimapourmoradi/steel-dataset 	\\ 	
+				
+				
+				
+				\bottomrule
+			\end{tabular}
+		}
+	\end{table*}
